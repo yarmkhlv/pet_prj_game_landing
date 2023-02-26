@@ -1,2 +1,2 @@
 # pet_game_landing
- Responsive layout. Used native html, css, js.
+ Responsive layout using basic html, css, js.
